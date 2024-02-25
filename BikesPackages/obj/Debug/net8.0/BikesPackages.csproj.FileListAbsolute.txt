@@ -1,0 +1,14 @@
+D:\Bikes Packages\BikesPackages\bin\Debug\net8.0\BikesPackages.exe
+D:\Bikes Packages\BikesPackages\bin\Debug\net8.0\BikesPackages.deps.json
+D:\Bikes Packages\BikesPackages\bin\Debug\net8.0\BikesPackages.runtimeconfig.json
+D:\Bikes Packages\BikesPackages\bin\Debug\net8.0\BikesPackages.dll
+D:\Bikes Packages\BikesPackages\bin\Debug\net8.0\BikesPackages.pdb
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.AssemblyInfoInputs.cache
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.AssemblyInfo.cs
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.csproj.CoreCompileInputs.cache
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.dll
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\refint\BikesPackages.dll
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.pdb
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\BikesPackages.genruntimeconfig.cache
+D:\Bikes Packages\BikesPackages\obj\Debug\net8.0\ref\BikesPackages.dll
